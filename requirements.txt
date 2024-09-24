@@ -1,0 +1,9 @@
+langchain_community
+faiss-cpu
+pypdf
+gpt4all
+langchain-chroma 
+beautifulsoup4
+langgraph
+sentence-transformers
+streamlit
